@@ -77,3 +77,6 @@ If `gravity` is present it sets `GravityConfig.normal` and `RapierConfiguration.
 - `3` brick
 
 Matrix must be 20×20. Missing paddle or ball results in fallback spawns.
+
+
+
